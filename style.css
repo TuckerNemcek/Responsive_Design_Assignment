@@ -6,13 +6,21 @@
 }
 
 .top{
-  background:grey;
+  background:#333;
 }
 
 .menu{
-  background:grey;
+  background:#333;
 }
 
 .bottom{
-  background:grey;
+  background:#333;
+}
+
+.btn{
+  background-color: #1b5e20
+}
+
+.underButton{
+    font-size:13px;
 }
